@@ -4,7 +4,7 @@ import "./App.scss";
 function App() {
   return (
     <h1 className="text-lg font-medium text-sky-500 dark:text-sky-400">
-      Hello world!
+      Hey there world!
     </h1>
   );
 }
