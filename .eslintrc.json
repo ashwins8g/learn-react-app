@@ -24,6 +24,8 @@
   },
   "plugins": ["react", "@typescript-eslint", "prettier"],
   "rules": {
-    "class-methods-use-this": "off"
+    "react/require-default-props": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/destructuring-assignment": "off"
   }
 }
